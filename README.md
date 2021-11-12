@@ -9,7 +9,7 @@ E-Solutions is a online course library that allows users to post courses they ha
 # 2. WHERE TO GO 
 Open your preferred browser and enter the following web address into the search bar 
 
- - https://jili-esolutions.herokuapp.com/
+ - https://peaceful-ridge-93332.herokuapp.com
 
 # 3. TIPS 
 If you want to run locally preform the following:
